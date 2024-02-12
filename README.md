@@ -57,6 +57,6 @@
 </p>
 
 <p align="left">
-    <img src="https://media1.tenor.com/m/-9lHctoXbJkAAAAC/toothless-toothless-dragon.gif">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ttNHoweGI4c3Byb2p1Mm1pZXd0dDVvcmQyYmZ2dWdqbWdla3A3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fWuJ2UWvmKMaOiI5O/giphy-downsized-large.gif">
 </p>
 
