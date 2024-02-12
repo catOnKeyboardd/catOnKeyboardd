@@ -43,7 +43,7 @@
 
 <h3 align="left">LeetCode Profile:</h3>
 <p align="left">
-  <a href="https://leetcode.com/your_username/" target="_blank">
+  <a href="https://leetcode.com/catOnKeyboardd/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode" alt="LeetCode Profile"/>
   </a>
 </p>
