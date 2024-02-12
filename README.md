@@ -1,62 +1,26 @@
-<h1 align="center">Hi, I'm catOnKeyboardd ! 👋</h1>
+ <h1 align="center">Hi, I'm catOnKeyboardd ! 👋</h1>
 
-- 🔭 I’m currently working on **Setting up my profile**
+[![Leetcode Stats](https://leetcard.jacoblin.cool/catOnKeyboardd)](https://leetcode.com/catOnKeyboardd/)  <a href="https://open.spotify.com/playlist/1dHcLjiPdte6jJQEg1Qv6b?si=8913ab9730a14aa1" target="_blank"><img src="https://i.imgur.com/Iqz4pm2.png" alt="Your Image" width="500"/>
+</a>
 
-- 🌱 I’m currently learning **How to walk**
+## Languages
 
-- 📫 How to reach me: **kevin2003yu@gmail.com**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://rstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" alt="RStudio" width="40" height="40"/>
-  </a>
-</p>
+## Technologies and Frameworks
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-<h3 align="left">LeetCode Profile:</h3>
-<p align="left">
-  <a href="https://leetcode.com/catOnKeyboardd/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode" alt="LeetCode Profile"/>
-  </a>
-</p>
 
-<h3 align="left">LeetCode Statistics:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-Total%20Problems%20Solved-brightgreen?logo=leetcode" alt="LeetCode Total"/>
-  <img src="https://img.shields.io/badge/Easy-9-green?logo=leetcode" alt="LeetCode Easy"/>
-  <img src="https://img.shields.io/badge/Medium-3-yellow?logo=leetcode" alt="LeetCode Medium"/>
-  <img src="https://img.shields.io/badge/Hard-4-red?logo=leetcode" alt="LeetCode Hard"/>
-</p>
 
-<p align="left">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ttNHoweGI4c3Byb2p1Mm1pZXd0dDVvcmQyYmZ2dWdqbWdla3A3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fWuJ2UWvmKMaOiI5O/giphy-downsized-large.gif">
-</p>
+
 
