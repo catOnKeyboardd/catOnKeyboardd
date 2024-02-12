@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I'm catOnKeyboardd ! 👋</h1>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/catOnKeyboardd)](https://leetcode.com/catOnKeyboardd/)  <a href="https://open.spotify.com/playlist/1dHcLjiPdte6jJQEg1Qv6b?si=8913ab9730a14aa1" target="_blank"><img src="https://i.imgur.com/FoIBW2F.png" alt="Your Image" width="250"/>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/catOnKeyboardd)](https://leetcode.com/catOnKeyboardd/)  <a href="https://open.spotify.com/playlist/1dHcLjiPdte6jJQEg1Qv6b?si=8913ab9730a14aa1" target="_blank"><img src="https://i.imgur.com/0jYgZco.png" alt="Your Image" width="300"/>
 </a>
 
 ## Languages
