@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Setting up my profile**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **How to walk**
 
 - 📫 How to reach me: **kevin2003yu@gmail.com**
 
@@ -29,12 +29,29 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://rstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" alt="RStudio" width="40" height="40"/>
+  </a>
+</p>
+
+
+<h3 align="left">LeetCode Profile:</h3>
+<p align="left">
+  <a href="https://leetcode.com/your_username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode" alt="LeetCode Profile"/>
+  </a>
 </p>
 
 <h3 align="left">LeetCode Statistics:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/LeetCode-Total%20Problems%20Solved-brightgreen?logo=leetcode" alt="LeetCode Total"/>
-  <img src="https://img.shields.io/badge/Easy-XX-green?logo=leetcode" alt="LeetCode Easy"/>
-  <img src="https://img.shields.io/badge/Medium-XX-yellow?logo=leetcode" alt="LeetCode Medium"/>
-  <img src="https://img.shields.io/badge/Hard-XX-red?logo=leetcode" alt="LeetCode Hard"/>
+  <img src="https://img.shields.io/badge/Easy-9-green?logo=leetcode" alt="LeetCode Easy"/>
+  <img src="https://img.shields.io/badge/Medium-3-yellow?logo=leetcode" alt="LeetCode Medium"/>
+  <img src="https://img.shields.io/badge/Hard-4-red?logo=leetcode" alt="LeetCode Hard"/>
 </p>
