@@ -55,3 +55,8 @@
   <img src="https://img.shields.io/badge/Medium-3-yellow?logo=leetcode" alt="LeetCode Medium"/>
   <img src="https://img.shields.io/badge/Hard-4-red?logo=leetcode" alt="LeetCode Hard"/>
 </p>
+
+<p align="left">
+    <img src="https://media1.tenor.com/m/-9lHctoXbJkAAAAC/toothless-toothless-dragon.gif">
+</p>
+
